@@ -1,0 +1,17 @@
+R:\Programming\Finals\Finals\bin\Debug\Finals.exe.config
+R:\Programming\Finals\Finals\bin\Debug\Finals.exe
+R:\Programming\Finals\Finals\bin\Debug\Finals.pdb
+R:\Programming\Finals\Finals\obj\Debug\Finals.csprojResolveAssemblyReference.cache
+R:\Programming\Finals\Finals\obj\Debug\Finals.Frm_ChooseField.resources
+R:\Programming\Finals\Finals\obj\Debug\Finals.Frm_Final.resources
+R:\Programming\Finals\Finals\obj\Debug\Finals.Properties.Resources.resources
+R:\Programming\Finals\Finals\obj\Debug\Finals.csproj.GenerateResource.Cache
+R:\Programming\Finals\Finals\obj\Debug\Finals.exe
+R:\Programming\Finals\Finals\obj\Debug\Finals.pdb
+C:\Users\1750019\Google Drive\CPII - Kurtis Bowen\Finals\Finals\bin\Debug\Finals.exe.config
+C:\Users\1750019\Google Drive\CPII - Kurtis Bowen\Finals\Finals\obj\Debug\Finals.exe
+C:\Users\1750019\Google Drive\CPII - Kurtis Bowen\Finals\Finals\obj\Debug\Finals.pdb
+C:\Users\1750019\Google Drive\CPII - Kurtis Bowen\Finals\Finals\obj\Debug\Finals.csprojResolveAssemblyReference.cache
+C:\Users\1750019\Google Drive\CPII - Kurtis Bowen\Finals\Finals\obj\Debug\Finals.Frm_ChooseField.resources
+C:\Users\1750019\Google Drive\CPII - Kurtis Bowen\Finals\Finals\obj\Debug\Finals.Frm_Final.resources
+C:\Users\1750019\Google Drive\CPII - Kurtis Bowen\Finals\Finals\obj\Debug\Finals.csproj.GenerateResource.Cache
